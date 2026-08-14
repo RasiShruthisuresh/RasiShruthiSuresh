@@ -28,19 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RasiShruthisuresh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasiShruthisuresh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasiShruthisuresh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 - 🧠 [**MentalHealthAnalysis**](https://github.com/RasiShruthisuresh/MentalHealthAnalysis) — analyzing mental health signals from social media content
